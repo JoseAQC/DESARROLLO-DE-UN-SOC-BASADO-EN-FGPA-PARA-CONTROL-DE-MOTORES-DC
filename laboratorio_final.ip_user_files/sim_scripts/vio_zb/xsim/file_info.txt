@@ -1,2 +1,0 @@
-vio_zb.vhd,vhdl,xil_defaultlib,../../../../laboratorio_final.srcs/sources_1/ip/vio_zb/sim/vio_zb.vhd,incdir="../../../../laboratorio_final.srcs/sources_1/ip/vio_zb/hdl/verilog"incdir="../../../../laboratorio_final.srcs/sources_1/ip/vio_zb/hdl"
-glbl.v,Verilog,xil_defaultlib,glbl.v
