@@ -1,0 +1,103 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/alberto.miguel
+T_opt
+!s110 1653242116
+VRen0Q@Jad2aWbc<g>cUkW1
+04 16 3 work pwm_generator_tb rtl 1
+=1-000ae431a4f1-628a7903-eee5a-ec324
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+Epwm_generator_simple
+Z1 w1653241958
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z5 d/home/alberto.miguel/seda_labs/sim_pwm_generator/sim
+Z6 8../src/axi_pwm_generator.vhd
+Z7 F../src/axi_pwm_generator.vhd
+l0
+L5
+V_`APClV;9D]Y7O1B1LNdi3
+!s100 V5B^T3z[6Cmhc>09nDA811
+Z8 OL;C;10.7c;67
+31
+Z9 !s110 1653315610
+!i10b 1
+Z10 !s108 1653315610.000000
+Z11 !s90 -reportprogress|300|-O0|-93|-work|work|../src/axi_pwm_generator.vhd|
+Z12 !s107 ../src/axi_pwm_generator.vhd|
+!i113 0
+Z13 o-O0 -93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z15 DEx4 work 20 pwm_generator_simple 0 22 _`APClV;9D]Y7O1B1LNdi3
+l35
+L19
+VH=SQ<CHJ6F9G1AmOiE]A62
+!s100 ;RUo>A=<5EjoVT9zALCKR2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Epwm_generator_tb
+Z16 w1653242077
+R2
+R3
+R4
+R5
+Z17 8../bench/axi_pwm_generator_tb.vhd
+Z18 F../bench/axi_pwm_generator_tb.vhd
+l0
+L8
+V=BN?G;FbE7UCOWSR?iz300
+!s100 iWoPgVc]KgM62eLd@CfJU1
+R8
+31
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-O0|-93|-work|work|../bench/axi_pwm_generator_tb.vhd|
+Z20 !s107 ../bench/axi_pwm_generator_tb.vhd|
+!i113 0
+R13
+R14
+Artl
+R15
+R2
+R3
+R4
+Z21 DEx4 work 16 pwm_generator_tb 0 22 =BN?G;FbE7UCOWSR?iz300
+l24
+L11
+Z22 VG8i2j0XgWB8NQJ8l3MomQ0
+Z23 !s100 XG6_fi]SU0SCjfXOMSJiW0
+R8
+31
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 0
+R13
+R14
